@@ -1,5 +1,5 @@
 ### Oie! Me chamo Eduarda! ✨
-<hr><img align="right"  width="160" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+<hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 <div style="display: inline_block"><br>
 💻 - Analista de Sistemas <br>
 📚 - Estudante de Engenharia de Software na UFG <br>
@@ -15,7 +15,7 @@
 <div>
  <a href="https://github.com/vnduda">
  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=vnduda&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnduda&layout=compact&langs_count=7&theme=radical"/>
+ <img align="right" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnduda&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <!--
