@@ -2,7 +2,7 @@
 <hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 <div style="display: inline_block"><br>
 💻 - Engenheira de software pela UFG <br>
-📚 - Estudante de Gestão de projetos na Poli-USP <br>
+📚 - Pós Graduada em Gestão de projetos na Poli-USP <br>
 🎥 - Nas horas vagas, contribuo com conhecimento lá no Youtube
 </div>
 
